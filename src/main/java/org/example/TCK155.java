@@ -14,9 +14,11 @@ public class TCK155 {
 
                     ch[j]='0';
                 }
-                if(count>1 && ch[i]!='0') {
-                    System.out.println(ch[i]);
+
                 }
+            if(count>1 && ch[i]!='0') {
+                System.out.println(ch[i]);
+
             }
         }
 
